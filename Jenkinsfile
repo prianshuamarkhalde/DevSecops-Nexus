@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "omkardile2682/devsecops-nexus:${BUILD_NUMBER}"
+        IMAGE_NAME = "prianshuamarkhalde/devsecops-nexus:${BUILD_NUMBER}"
     }
 
     stages {
@@ -128,7 +128,7 @@ pipeline {
             steps {
                 sh '''
                     aws eks update-kubeconfig \
-                        --region eu-north-1 \
+                        --region us-east-1 \
                         --name my-eks-cluster
 
                     kubectl apply -f deployment.yaml
