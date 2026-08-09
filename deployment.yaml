@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: your-deployment
+  namespace: myapp
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: nexus-app
+  template:
+    metadata:
+      labels:
+        app: nexus-app
+    spec:
+      containers:
+        - name: nexus-container
+          image: 13.48.128.196:8082/devsecops-nexus:latest
+          ports:
+            - containerPort: 80
+      imagePullSecrets:
+        - name: artifactory-registry-secret
