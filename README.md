@@ -321,30 +321,6 @@ SonarQube Quality Gates prevent low-quality code from progressing through the pi
 
 ---
 
-<p align="center">
-  <img src="docs/images/7.png" width="900">
-</p>
-
----
-
-<p align="center">
-  <img src="docs/images/8.png" width="900">
-</p>
-
----
-
-<p align="center">
-  <img src="docs/images/8.png" width="900">
-</p>
-
----
-
-<p align="center">
-  <img src="docs/images/9.png" alt="Amazon EKS Cluster" width="900">
-</p>
-
----
-
 # 🔮 Future Enhancements
 
 The project can be extended with:
