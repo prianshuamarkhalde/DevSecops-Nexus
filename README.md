@@ -286,73 +286,61 @@ SonarQube Quality Gates prevent low-quality code from progressing through the pi
 ## 🏗️ Project Architecture
 
 <p align="center">
-  <img src="docs/images/architecture.png" width="900">
+  <img src="docs/images/1.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/jenkins-pipeline.png"  width="1000">
+  <img src="docs/images/2.png"  width="1000">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/github.png" width="900">
+  <img src="docs/images/3.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/maven-build.png" width="900">
+  <img src="docs/images/4.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/sonar-quality-gate.png" width="900">
+  <img src="docs/images/5.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/dependency-check.png" width="900">
+  <img src="docs/images/6.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/docker.png" width="900">
+  <img src="docs/images/7.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/trivy.png" width="900">
+  <img src="docs/images/8.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/jfrog.png" width="900">
+  <img src="docs/images/8.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/eks.png" alt="Amazon EKS Cluster" width="900">
-</p>
-
----
-
-<p align="center">
-  <img src="docs/images/kubernetes.png" alt="Kubernetes Deployment" width="900">
-</p>
-
----
-
-<p align="center">
-  <img src="docs/images/kubernetes.png" alt="Kubernetes Deployment" width="900">
+  <img src="docs/images/9.png" alt="Amazon EKS Cluster" width="900">
 </p>
 
 ---
