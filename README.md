@@ -286,37 +286,37 @@ SonarQube Quality Gates prevent low-quality code from progressing through the pi
 ## 🏗️ Project Architecture
 
 <p align="center">
-  <img src="docs/images/1.png" width="900">
+  <img src="/images/1.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/2.png"  width="1000">
+  <img src="/images/2.png"  width="1000">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/3.png" width="900">
+  <img src="/images/3.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/4.png" width="900">
+  <img src="/images/4.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/5.png" width="900">
+  <img src="/images/5.png" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="docs/images/6.png" width="900">
+  <img src="/images/6.png" width="900">
 </p>
 
 ---
